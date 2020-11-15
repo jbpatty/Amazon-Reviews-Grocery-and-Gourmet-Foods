@@ -28,3 +28,4 @@ My fifth and final topic is “coffee” which had the following identifiers:  c
 These features created in topic modeling were used along with other product information in Tableau.
 
 ### Files
+amazon_modeling_final.ipynb shows the use of TF-IDF and NMF topic modeling to break down and analyze Amazon reviews for Grocery and Gourmet Foods.
