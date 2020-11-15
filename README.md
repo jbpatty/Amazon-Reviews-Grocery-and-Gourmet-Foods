@@ -26,3 +26,5 @@ TOPIC 5 - COFFEE
 My fifth and final topic is “coffee” which had the following identifiers:  cup, Keurig, and morning as well as the adjectives: smooth, bold, strong, roast, and decaf  
 
 These features created in topic modeling were used along with other product information in Tableau.
+
+### Files
