@@ -30,6 +30,6 @@ These features created in topic modeling were used along with other product info
 ### Files
 [amazon_modeling_final](/Users/jbpatty/project-4/amazon_modeling_final.ipynb) shows the use of CountVectorizer and TF-IDF for NMF topic modeling to break down and analyze Amazon reviews for Grocery and Gourmet Foods.
 
-[amazon_data_cleaning](/Users/jbpatty/project-4/amazon_modeling_final.ipynb) and [amazon_exploratory_data_analysis](/Users/jbpatty/project-4/amazon_exploratory_data_analysis.ipynb)shows the process of cleaning a million rows of Amazon Grocery and Gourment product data, preparing it for modeling, and building a classification model using the review analysis data
+[amazon_data_cleaning](/Users/jbpatty/project-4/amazon_modeling_final.ipynb) and [amazon_exploratory_data_analysis](/Users/jbpatty/project-4/amazon_exploratory_data_analysis.ipynb) show the process of cleaning a million rows of Amazon Grocery and Gourment product data, preparing it for modeling, and building a classification model using the review analysis data
 
 
