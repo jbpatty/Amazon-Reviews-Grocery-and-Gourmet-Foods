@@ -8,7 +8,7 @@ On project two I analyzed consumer oriented food products that were imported to 
 	- are they talking negatively or positively about these products and categories, and
 	- what exactly are they saying 
 
-I collected my data from the University of California San Diego’s data science repository. This dataset had over five million Amazon grocery and gourmet reviews of which I pulled in a million before cleaning. For Preprocessing I analyzed my data using both CountVectorization and TFIDF, with CountVectorization providing better results. For Topic Modeling I started with NMF to find my topics and then dug deeper into them using Spacy. For data visualizations I used Tableau.
+I collected my data from the University of California San Diego’s data science repository. This dataset had over five million Amazon grocery and gourmet reviews of which I pulled in a million before cleaning. For Preprocessing, I analyzed my data using both CountVectorization and TFIDF, with CountVectorization providing better results. For Topic Modeling, I started with NMF to find my topics and then dug deeper into them using Spacy. For data visualizations, I used Tableau.
 
 TOPIC 1 - CHOCOLATE  
 Topic one is ‘chocolate’ some of the adjectives used to describe this topic were sweet, bitter, rich, sugary, dark, and white
@@ -16,13 +16,13 @@ Topic one is ‘chocolate’ some of the adjectives used to describe this topic 
 TOPIC 2 - SHIPPING 
 My second topic is “shipping” which has descriptive words such as arrived, service, fast, works, and time 
 
-SLIDE - TOPIC 3 - STORE 
+TOPIC 3 - STORE 
 The third topic is “store” and it included words such as Amazon, order, shop, and product
 
-SLIDE - TOPIC 4 - TEA
+TOPIC 4 - TEA
 My second to last topic is “tea”. The hot beverage had the following descriptors: leaves, black, steep, and aromatic
 
-SLIDE - TOPIC 5 - COFFEE 
+TOPIC 5 - COFFEE 
 My fifth and final topic is “coffee” which had the following identifiers:  cup, Keurig, and morning as well as the adjectives: smooth, bold, strong, roast, and decaf  
 
 
